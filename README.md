@@ -7,3 +7,9 @@ So much of the data about current events is hidden within the text of ephemeral 
 ## Pull Reqeusts
 1. Include an image or PDF of the data you've transcribed.
 2. Keep it manageable. If you've transcribed 20 pages, do multiple pull requests. This will be much easier to review. Nobody likes 3000 line code reviews.
+
+## Data Structure
+The data structure outlined isn't final. If someone submits a pull request suggesting a more efficient or meaningfyl structure, it may change.
+
+## Understanding the Data
+Aviation experts, please help to organize this data to uncorrectly. It's not completely clear what everything in the flight logs means. For example, the Airplane column.
