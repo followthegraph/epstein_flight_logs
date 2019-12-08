@@ -1,0 +1,24 @@
+ [
+  {
+    "date": "2001-01-06",
+    "flightNumber: 44
+    "simulation": false,
+    "notes": "",
+    "aircraft": {
+      "id": "N909JE",
+      "make": "Gulfstream",
+      "model": "1159B"
+    },
+    "origin": "TIST",
+    "destination": "EWR",
+    "pilot": "David Rogers",
+    "passengers": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Sarah Kellen",
+      "AP",
+      "Alexia Wallert",
+      "Cindy Lopez"
+    ]
+  }
+]
