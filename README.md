@@ -36,9 +36,8 @@ Check and doublecheck the data you enter to make sure it's correct. Don't conver
 
 ### 3. Submit a Pull Request
 - Reference your issue in the pull request.
-- Include an image or PDF of the data you've transcribed so that it can be cross-checked. *(only reference sources in the offical sources list)*
-- Include a link to the document that the changes were pulled from so that the source can be verified.
-- Keep it manageable. Nobody likes 3000 line code reviews. If you're adding lots of data, split it up into multiple pull requests.
+- Include which official source you referenced when working on the issue.
+- Keep it manageable. If you're adding lots of data, split it up into multiple pull requests.  Nobody likes 3000 line code reviews
 
 ## Guidelines
 
