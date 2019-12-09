@@ -9,7 +9,8 @@ This is the data from the flight logs of Jeffrey Epstein's private jet, The Loli
   - [Do the Workd](#2-do-the-work)
   - [Submit a Pull Request](#3-submit-a-pull-request)
 - [Help Needed](#help-needed)
-- [Sources](#sources)
+- [Official Sources](#official-sources)
+- [Unofficial Sources](#unofficial-sources)
 
 ## Objective
 So much of the data about current events is hidden within the text of ephemeral articles. Often times, these data exist only as poorly scanned documents in unreadable formats, only to become broken links. The first step to understanding the truth of a story is organize the facts. This is a task that takes a team. I can think of no better collaborative system than GIT. Let's liberate the truth from the shackles of obscurity together.
@@ -35,7 +36,7 @@ Check and doublecheck the data you enter to make sure it's correct. Don't conver
 
 ### 3. Submit a Pull Request
 - Reference your issue in the pull request.
-- Include an image or PDF of the data you've transcribed so that it can be cross-checked.
+- Include an image or PDF of the data you've transcribed so that it can be cross-checked. *(only reference sources in the offical sources list)*
 - Include a link to the document that the changes were pulled from so that the source can be verified.
 - Keep it manageable. Nobody likes 3000 line code reviews. If you're adding lots of data, split it up into multiple pull requests.
 
@@ -60,20 +61,29 @@ Aviation experts, please help to organize this data correctly. It's not complete
 ### Investigators
 If you have additional sources of flight manifest data or passenger information, contact [epsteinflightlogs@protonmail.com](mailto:epsteinflightlogs@protonmail.com).
 
-## Sources
-The following are the publicly available flight records and their sources:
+## Official Sources
+The following are the publicly available flight records and their sources. Please only reference sources in this this list when creating issues. If you have discovered a new source, create an issue to add that source to the list. Only sources from trusted entities such as news companies and government websites.
 
-### Document 1
+### O-Source 01
+Original document published by Gawker in 2015.
+
 **Link:** [Epstein Flight Manifests](https://www.dropbox.com/s/ugplsdawnkvkfcv/GAWKER-epstein-flight-manifests.pdf?dl=0)  
 **Filesize:** 9.6 MB  
 **Source:** [Flight Logs Put Clinton, Dershowitz on Pedophile Billionaire’s Sex Jet](https://gawker.com/flight-logs-put-clinton-dershowitz-on-pedophile-billio-1681039971)
 
-## Document 2
-**Link:** [Epstein Flight Logs](https://www.dropbox.com/s/0911d48rotdi2fl/RADAR-epstein-flight-logs.pdf?dl=0)  
-**Filesize:** 673 KB  
-**Source:** [Something To Hide? Jeffrey Epstein Orgy Plane Sex Logs ‘Sanitized’ To Protect Pals Like Clinton, Attorneys Claim](https://radaronline.com/exclusives/2015/01/royal-sex-scandal-prince-andrew-pedophile-flight-logs/)
+### O-Source 02
+Recently unsealed document reported on by CNBC.
 
-## Document 3
 **Link:** [Epstein Court Documents](https://www.dropbox.com/s/4mlcoqri6t8m0nn/CNBC-epstein-court-docs.pdf?dl=0)  
 **Filezie:** 178 MB  
 **Source:** [Court releases documents about Jeffrey Epstein, accused in sex traffic case, and his alleged procurer Ghislaine Maxwell](https://www.cnbc.com/2019/08/09/documents-released-about-jeffrey-epstein-and-ghislaine-maxwell.html)
+
+## Unofficial Sources
+Unofficial sources may be helpful, but should not be the primary source of information data. If a more reputable prodiver of the source is found, an unofficial source can graduate to an official source. 
+
+### U-Source 01
+This may be useful for reading the information in o-source 01. It's essentially the same thing, just typed out in readable text.
+
+**Link:** [Epstein Flight Logs](https://www.dropbox.com/s/0911d48rotdi2fl/RADAR-epstein-flight-logs.pdf?dl=0)  
+**Filesize:** 673 KB  
+**Source:** [Something To Hide? Jeffrey Epstein Orgy Plane Sex Logs ‘Sanitized’ To Protect Pals Like Clinton, Attorneys Claim](https://radaronline.com/exclusives/2015/01/royal-sex-scandal-prince-andrew-pedophile-flight-logs/)
