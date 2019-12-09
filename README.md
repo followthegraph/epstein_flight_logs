@@ -37,7 +37,7 @@ Check and doublecheck the data you enter to make sure it's correct. Don't conver
 ### 3. Submit a Pull Request
 - Reference your issue in the pull request.
 - Include which official source you referenced when working on the issue.
-- Keep it manageable. If you're adding lots of data, split it up into multiple pull requests.  Nobody likes 3000 line code reviews
+- Keep it manageable. If you're adding lots of data, split it up into multiple pull requests.  Nobody likes 3000 line code reviews.
 
 ## Guidelines
 
@@ -48,9 +48,11 @@ We don't want to double up work, so **only work on the issues you created or iss
 Don't let your issues linger. If you create an issue that sits for more than two week without a pull request submission, the issue will be deleted so that someone else can complete that task. We don't want to drag this project out for 3 years waiting on someone to enter 5 flights.
 
 ### Reporting bugs
-If you discover an issue with the data, but do not want to fix it, prepend your issue with `But Report:`
+If you discover an issue with the data, but do not want to fix it, prepend your issue with `But Report:`.
 
 **Example Issue**: `Bug Report: Jeffrey Epstein spelled wrong on line 212 of json/flight-log`
+
+The first person to claim the issue in the commments will get the issue assigned to them.
 
 ## Help Needed
 
