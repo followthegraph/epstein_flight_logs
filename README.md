@@ -22,7 +22,7 @@ We want to make this information easy to consume for humans and computers. The i
 - where flights went, and
 - who was on them.
 
-The data structure should reflect this. Yes, we want to include as much data as possible, but not at the expense of the overal focus. With that said, the data structure is not set in stone. If there's a better way to structure this to communicate the information, create and issue and we can discuss it.
+The data structure should reflect this. Yes, we want to include as much data as possible, but not at the expense of the overall focus. With that said, the data structure is not set in stone. If there's a better way to structure this to communicate the information, create and issue and we can discuss it.
 
 ## How to Contribute
 
