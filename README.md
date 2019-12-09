@@ -39,15 +39,15 @@ Check and doublecheck the data you enter to make sure it's correct. Don't conver
 - Include a link to the document that the changes were pulled from so that the source can be verified.
 - Keep it manageable. Nobody likes 3000 line code reviews. If you're adding lots of data, split it up into multiple pull requests.
 
-## Guidlines
+## Guidelines
 
-### Only work on issues you created or issues assigned to you
-We don't want to double up work, so only do the issues you created or issues assigned to you. It will be assumed that you are going to complete the issue you created.
+### Only work on your issues
+We don't want to double up work, so **only work on the issues you created or issues assigned to you**. It will be assumed that you are going to complete the issue you created.
 
-### Lingering incomplete issues
-If you create an issue that sits for more than two week without a pull request submission, the issue will be deleted so that someone else can complete that task. We don't want to drag this project out for 3 years waiting on someone to enter 5 flights.
+### Don't let issues linger
+Don't let your issues linger. If you create an issue that sits for more than two week without a pull request submission, the issue will be deleted so that someone else can complete that task. We don't want to drag this project out for 3 years waiting on someone to enter 5 flights.
 
-### Reporting Bugs
+### Reporting bugs
 If you discover an issue with the data, but do not want to fix it, prepend your issue with `But Report:`
 
 **Example Issue**: `Bug Report: Jeffrey Epstein spelled wrong on line 212 of json/flight-log`
