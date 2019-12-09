@@ -1,5 +1,5 @@
 # Epstein Flight Logs
-This is the data from the flight logs of Jeffrey Epstein's private jet, The Lolita Express. The purpose of this project is to organize the data into readable formats.
+This is data from the flight logs of Jeffrey Epstein's private jets. The purpose of this project is to organize the data into readable formats.
 
 #### Table of Contents
 - [Objective](#objective)
