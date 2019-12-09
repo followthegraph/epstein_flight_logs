@@ -5,9 +5,9 @@
     "simulation": false,
     "notes": "",
     "aircraft": {
-      "id": "N909JE",
-      "make": "Gulfstream",
-      "model": "1159B"
+      "id": "N908JE",
+      "make": "Boeing",
+      "model": "727-31"
     },
     "origin": "TIST",
     "destination": "EWR",
