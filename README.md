@@ -13,7 +13,7 @@ This is the data from the flight logs of Jeffrey Epstein's private jet, The Loli
 - [Unofficial Sources](#unofficial-sources)
 
 ## Objective
-So much of the data about current events is hidden within the text of ephemeral articles. Often times, these data exist only as poorly scanned documents in unreadable formats, only to become broken links. The first step to understanding the truth of a story is organize the facts. This is a task that takes a team. I can think of no better collaborative system than GIT. Let's liberate the truth from the shackles of obscurity together.
+So much of the data about current events is hidden within the text of ephemeral articles. Often times, these data exist only as poorly scanned documents in unreadable formats, destined to become broken links. The first step to understanding the truth of a story is organize the facts. This is a task that takes a team. I can think of no better collaborative system than GIT. Let's liberate the truth from the shackles of obscurity together.
 
 ## Project Details
 We want to make this information easy to consume for humans and computers. The important information this data must communicate is:
