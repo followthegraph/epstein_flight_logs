@@ -32,7 +32,7 @@ The data structure outlined isn't final. If someone submits a pull request sugge
 ### Aviation Experts
 Aviation experts, please help to organize this data correctly. It's not completely clear what everything in the flight logs means to someone who's never filled one out. For example, the Airplane column.
 ### Investigators
-If you have additional sources of flight manifest data or passenger information, contact us at [epsteinflightlogs@protonmail.com](epsteinflightlogs@protonmail.com).
+If you have additional sources of flight manifest data or passenger information, contact [epsteinflightlogs@protonmail.com](mailto:epsteinflightlogs@protonmail.com).
 
 ## Sources
 The following are the publicly available flight records and their sources:
