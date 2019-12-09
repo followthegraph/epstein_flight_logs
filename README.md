@@ -30,7 +30,7 @@ The data structure should reflect this. Yes, we want to include as much data as 
 ### 1. Create an Issue
 Create an issue for the task you're going to complete. This way we can track what data is being entered so we don't do work that's already been done.
 
-**Example Issue:** `Enter flight data from 2002/01/06 to 2002/01/14 referenced in O-Source 01 page 2`
+**Example Issue:** `Data entry: flight data from 2002/01/06 to 2002/01/14 referenced in O-Source 01 page 2`
 
 ### 2. Do the Work
 Check and doublecheck the data you enter to make sure it's correct. Don't convert passenger initials to names unless you're absolutely sure the initials reference that particular name.
