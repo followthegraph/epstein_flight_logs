@@ -6,7 +6,7 @@ This is the data from the flight logs of Jeffrey Epstein's private jet, The Loli
 - [Data Structure](#data-structure)
 - [How to Contribute](#how-to-contribute)
   - [1. Create an Issue](#1-create-an-issue)
-  - [2. Do the Workd](#2-do-the-work)
+  - [2. Do the Work](#2-do-the-work)
   - [3. Submit a Pull Request](#3-submit-a-pull-request)
 - [Help Needed](#help-needed)
 - [Official Sources](#official-sources)
