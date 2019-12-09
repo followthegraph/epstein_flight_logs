@@ -20,5 +20,81 @@
       "Alexia Wallert",
       "Cindy Lopez"
     ]
+  },
+  {
+    "date": "2001-01-11",
+    "flightNumber": 45,
+    "simulation": false,
+    "notes": "",
+    "aircraft": {
+      "id": "N908JE",
+      "make": "Boeing",
+      "model": "727-31"
+    },
+    "origin": "EWR",
+    "destination": "PBI",
+    "pilot": "David Rogers",
+    "passengers": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Roger",
+      "Warren",
+      "Margaret",
+      "1 Female"
+    ]
+  },
+  {
+    "date": "2001-01-13",
+    "flightNumber": 1557,
+    "simulation": false,
+    "notes": "",
+    "aircraft": {
+      "id": "N909JE",
+      "make": "Gulfstream",
+      "model": "1159B"
+    },
+    "origin": "PBI",
+    "destination": "MBPV",
+    "pilot": "David Rogers",
+    "passengers": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell"
+    ]
+  },
+  {
+    "date": "2001-01-13",
+    "flightNumber": 1558,
+    "simulation": false,
+    "notes": "",
+    "aircraft": {
+      "id": "N909JE",
+      "make": "Gulfstream",
+      "model": "1159B"
+    },
+    "origin": "MBPV",
+    "destination": "PBI",
+    "pilot": "David Rogers",
+    "passengers": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell"
+    ]
+  },
+  {
+    "date": "2001-01-14",
+    "flightNumber": 46,
+    "simulation": false,
+    "notes": "",
+    "aircraft": {
+      "id": "N908JE",
+      "make": "Boeing",
+      "model": "727-31"
+    },
+    "origin": "PBI",
+    "destination": "LGA",
+    "pilot": "David Rogers",
+    "passengers": [
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell"
+    ]
   }
 ]
